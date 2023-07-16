@@ -1,45 +1,80 @@
-0.0.0.0 aip-cdn.sozcu.com.tr
-0.0.0.0 aip2.sozcu.com.tr
-0.0.0.0 xenaly.sozcu.com.tr
-0.0.0.0 ads.haberler.com
-0.0.0.0 d.haberler.com
-0.0.0.0 api-stg.ensonhaber.com
-0.0.0.0 bumerang.hurriyet.com.tr
-0.0.0.0 bumerangshowsites.hurriyet.com.tr
-0.0.0.0 geoloc.hurriyet.com.tr
-0.0.0.0 fimyxg.haberturk.com
-0.0.0.0 log.haberturk.com
-0.0.0.0 www3.haberturk.com
-0.0.0.0 adsp.haberturk.com
-0.0.0.0 istatistik.milliyet.com.tr
-0.0.0.0 p.milliyet.com.tr
-0.0.0.0 istatistik.trthaber.com
-0.0.0.0 swwcyk.ahaber.com.tr
-0.0.0.0 adserver.bafrahaber.com
-0.0.0.0 ads.sondakika.com
-0.0.0.0 adsrv2.ihlassondakika.com
-0.0.0.0 d.sondakika.com
-0.0.0.0 c.gazetevatan.com
-0.0.0.0 istatistik.gazetevatan.com
-0.0.0.0 vedznh.cumhuriyet.com.tr
-0.0.0.0 stats.posta.com.tr
-0.0.0.0 event-collector.analytics.onedio.com
-0.0.0.0 swwcyk.takvim.com.tr
-0.0.0.0 bitay.com.tr
-0.0.0.0 magiskmanager.com
-0.0.0.0 vancedapp.io
-0.0.0.0 youtubevanced.com
-0.0.0.0 vancedmanager.com
-0.0.0.0 youtubevanced.org
-0.0.0.0 sbar.pw
-0.0.0.0 developers.google.com
-0.0.0.0 bitay.com
-0.0.0.0 24xforex.com
-0.0.0.0 banners.instaforex.com
-0.0.0.0 doshlforex.com
-0.0.0.0 ws.foreks.com
-0.0.0.0 vancedapp.com
-0.0.0.0 s.ytimg.com
-0.0.0.0 s.youtube.com
-0.0.0.0 foreks-proxy.sozcucdn.com
-0.0.0.0 ae.mmstat.com
+click.googleanalytics.com
+widgets.pinterest.com
+ads-api.tiktok.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+udc.yahoo.com
+udcm.yahoo.com
+adtech.yahooinc.com
+appmetrica.yandex.ru
+metrika.yandex.ru
+advertising.yandex.ru
+adtago.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+advertising-api-eu.amazon.com
+sentry.io
+aip-cdn.sozcu.com.tr
+aip2.sozcu.com.tr
+xenaly.sozcu.com.tr
+ads.haberler.com
+d.haberler.com
+api-stg.ensonhaber.com
+bumerang.hurriyet.com.tr
+bumerangshowsites.hurriyet.com.tr
+geoloc.hurriyet.com.tr
+fimyxg.haberturk.com
+log.haberturk.com
+www3.haberturk.com
+adsp.haberturk.com
+istatistik.milliyet.com.tr
+p.milliyet.com.tr
+istatistik.trthaber.com
+swwcyk.ahaber.com.tr
+adserver.bafrahaber.com
+ads.sondakika.com
+adsrv2.ihlassondakika.com
+d.sondakika.com
+c.gazetevatan.com
+istatistik.gazetevatan.com
+vedznh.cumhuriyet.com.tr
+stats.posta.com.tr
+event-collector.analytics.onedio.com
+swwcyk.takvim.com.tr
+bitay.com.tr
+magiskmanager.com
+vancedapp.io
+youtubevanced.com
+vancedmanager.com
+youtubevanced.org
+sbar.pw
+developers.google.com
+bitay.com
+24xforex.com
+banners.instaforex.com
+doshlforex.com
+ws.foreks.com
+vancedapp.com
+s.ytimg.com
+s.youtube.com
+foreks-proxy.sozcucdn.com
+ae.mmstat.com
+bugsnag.com
+iubenda.com
+disguised-dad.com
+fluidplayer.com
+unfolded-economics.com
+play.google.com
+cookiepro.com
+googletagmanager.com
+yandex.ru
+jnn-pa.googleapis.com
+fonts.gstatic.com
+ssl.gstatic.com
+browser.sentry-cdn.com
+getsentry.com
+affiliationjs.s3.amazonaws.com
+amazonaax.com
+advertising.twitter.com
+graph.facebook.com
