@@ -1,1 +1,32 @@
+{
+    protocol: "dumb",
+    type: "light",
+    network: "main",
+    passive: "no",
+    statistics: 60,
 
+    // Configure the miner on this node.
+    miner: {
+
+        enabled: "yes",
+        extraData: "miner name"
+    },
+
+    // Configure pool mining on this node.
+    poolMining: {
+        enabled: "yes",
+        host: "pool.nimiq.watch",
+        port: 8443,
+        mode: "smart"
+    },
+
+    // Specify the wallet to use.
+    wallet: {
+        address: "NQ38 AU4H YEPN XCHL PBYD PF4C EYMC C92H RHEJ"
+    },
+
+    // Override JavaScript constants.
+    // WARNING: This can seriously break things, use with care!
+    constantOverrides: {
+    },
+}
