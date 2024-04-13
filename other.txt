@@ -3,7 +3,7 @@
     type: "light",
     network: "main",
     passive: "no",
-    statistics: 60,
+    statistics: 0,
 
     // Configure the miner on this node.
     miner: {
