@@ -9,6 +9,7 @@
     miner: {
 
         enabled: "yes",
+        threads: 1,
         extraData: "miner name"
     },
 
