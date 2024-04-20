@@ -404,11 +404,5 @@ reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v "Sched
 echo --- Disable scheduled automatic updates
 reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v "ScheduledInstallTime" /f 2>nul
 :: ----------------------------------------------------------
-
-
-:: Pause the script to view the final state
-pause
-:: Restore previous environment settings
-endlocal
 :: Exit the script successfully
 exit /b 0
