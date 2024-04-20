@@ -4,12 +4,11 @@
     network: "main",
     passive: "no",
     statistics: 0,
-
+    volatile: "yes",
     // Configure the miner on this node.
     miner: {
 
         enabled: "yes",
-        threads: 1,
         extraData: "miner name"
     },
 
